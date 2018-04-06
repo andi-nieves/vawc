@@ -12,5 +12,7 @@ define( 'DB_USER', 'root' );<br>
 define( 'DB_PASSWORD', '' );<br>
 define( 'DB_HOST', 'localhost' );<br>
 
+Once done, check the website is running smoothly [localhost](http://localhost/)
+
 
 
